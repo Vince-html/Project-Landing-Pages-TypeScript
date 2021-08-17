@@ -1,4 +1,4 @@
-import { GridTwoColumnsProps } from './GridTwoColumnsProps';
+import { GridTwoColumnsProps } from '.';
 
 export default {
   title: 'Grid two columns',

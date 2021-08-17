@@ -10,6 +10,7 @@ export type GridImageProp = {
   description: string;
   grid?: GridImageElementProps[];
   sectionId?: string;
+  component?: string;
 };
 
 export type GridImageElementProps = {
